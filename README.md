@@ -6,7 +6,7 @@ Financial statement analysis of Shell plc (FY2023 vs FY2024) to assess financial
 
 Evaluate Shell plc's financial health and investment attractiveness over FY2023–FY2024 from an equity investor's perspective, using its audited financial statements, and arrive at an evidence-based buy/hold/sell recommendation.
 
-**[Full Report (PDF)](./Shell_plc_Financial_Analysis_Report.pdf)**
+**[Full Report (PDF)]([./Shell_plc_Financial_Analysis_Report.pdf](https://github.com/MinhThuanPhung/Shell-plc-Financial-Analysis/blob/main/Shell_plc_Financial_Analysis_Report.pdf))**
 
 ## Data & Method
 
@@ -79,4 +79,4 @@ Financial statement analysis, ratio analysis (gearing, liquidity, ROE/ROA/ROCE),
 
 ## Full workings
 
-Full calculations, source figures, and detailed commentary for every ratio above are in the [full report (PDF)](./Shell_plc_Financial_Analysis_Report.pdf).
+Full calculations, source figures, and detailed commentary for every ratio above are in the [full report (PDF)]([./Shell_plc_Financial_Analysis_Report.pdf](https://github.com/MinhThuanPhung/Shell-plc-Financial-Analysis/blob/main/Shell_plc_Financial_Analysis_Report.pdf)).
